@@ -1,0 +1,8 @@
+✨ This landing page includes:
+Navbar with branding and CTA button
+Hero section with headline + call-to-action
+Features section (cards with DaisyUI styling)
+Call to action (CTA) section
+Footer
+Do you want me to also make it responsive with animations (like fade-in/slide-in effects using Framer Motion
+)?
